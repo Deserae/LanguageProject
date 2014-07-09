@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+	"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.0"
+   width="1000"
+   height="1000"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <g
+     transform="translate(125,-32.362183)"
+     id="layer1">
+    <use
+       transform="translate(0,310)"
+       style="fill:#000000"
+       id="use2175"
+       x="0"
+       y="0"
+       width="1000"
+       height="1000"
+       xlink:href="#path2172" />
+    <use
+       transform="translate(0,-310)"
+       style="fill:#000000"
+       id="use2177"
+       x="0"
+       y="0"
+       width="1000"
+       height="1000"
+       xlink:href="#path2172" />
+    <path
+       d="M 375,382.36218 C 292.2,382.36218 225,449.56218 225,532.36218 C 225,615.16218 292.2,682.36218 375,682.36218 C 457.8,682.36218 524.99999,615.16218 525,532.36218 C 525,449.56218 457.8,382.36218 375,382.36218 z M 375,482.36218 C 402.6,482.36218 425,504.76218 425,532.36218 C 425.00001,559.96218 402.6,582.36218 375,582.36218 C 347.4,582.36219 325,559.96218 325,532.36218 C 325,504.76218 347.4,482.36218 375,482.36218 z "
+       style="fill:#000000"
+       id="path2172" />
+    <use
+       transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,755.07133,318.78375)"
+       style="fill:#000000"
+       id="use2190"
+       x="0"
+       y="0"
+       width="1000"
+       height="1000"
+       xlink:href="#path2172" />
+    <use
+       transform="matrix(-0.5,0.8660254,-0.8660254,-0.5,1292.0071,628.78375)"
+       style="fill:#000000"
+       id="use2192"
+       x="0"
+       y="0"
+       width="1000"
+       height="1000"
+       xlink:href="#path2172" />
+    <use
+       transform="matrix(0.5,0.8660254,0.8660254,-0.5,-5.07124,318.78375)"
+       style="fill:#000000"
+       id="use2209"
+       x="0"
+       y="0"
+       width="1000"
+       height="1000"
+       xlink:href="#path2172" />
+    <use
+       transform="matrix(0.5,0.8660254,0.8660254,-0.5,-542.00701,628.78375)"
+       style="fill:#000000"
+       id="use2211"
+       x="0"
+       y="0"
+       width="1000"
+       height="1000"
+       xlink:href="#path2172" />
+  </g>
+</svg>

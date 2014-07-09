@@ -1,0 +1,803 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"category",
+				"category_id"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"boer",
+				"border-right"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"post",
+				"post_name"
+			],
+			[
+				"pos",
+				"post_html"
+			],
+			[
+				"listi",
+				"listing_html"
+			],
+			[
+				"cate",
+				"category_name"
+			],
+			[
+				"lang",
+				"lang_name"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"sid",
+				"sideNav"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bl",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"top",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"connect",
+				"connect_errno"
+			],
+			[
+				"password",
+				"password2"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"fli",
+				"flipContainer"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"flash",
+				"flashcard-overview"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"st",
+				"startTime"
+			],
+			[
+				"pa",
+				"participantCount"
+			],
+			[
+				"g",
+				"grasshopper"
+			],
+			[
+				"e",
+				"extend"
+			],
+			[
+				"de",
+				"default_settings"
+			],
+			[
+				"ite",
+				"item"
+			],
+			[
+				"it",
+				"items"
+			],
+			[
+				"my",
+				"myCart"
+			],
+			[
+				"get",
+				"getName"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"l",
+				"lunch"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ma",
+				"mustang"
+			],
+			[
+				"c",
+				"custom_settings"
+			],
+			[
+				"pro",
+				"product1"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pur",
+				"purchase"
+			],
+			[
+				"product",
+				"product_id"
+			],
+			[
+				"insert",
+				"insert_line_item"
+			],
+			[
+				"a",
+				"action	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/listing.class.php",
+			"settings":
+			{
+				"buffer_size": 439,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/post.class.php",
+			"settings":
+			{
+				"buffer_size": 1194,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/user.class.php",
+			"settings":
+			{
+				"buffer_size": 1879,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "process_post.php",
+			"settings":
+			{
+				"buffer_size": 796,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "category.php",
+			"settings":
+			{
+				"buffer_size": 2001,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "createPost.php",
+			"settings":
+			{
+				"buffer_size": 1852,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "editPost.php",
+			"settings":
+			{
+				"buffer_size": 1875,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 2904,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packelis",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/deserae/htdocs/myProject/post.php",
+		"/var/www/deserae/htdocs/myProject/app/views/primary_header.php",
+		"/var/www/deserae/htdocs/myProject/app/views/main.php",
+		"/var/www/deserae/htdocs/myProject/index.php",
+		"/var/www/deserae/htdocs/myProject/app/core/model.class.php",
+		"/var/www/deserae/htdocs/myProject/js/main.js",
+		"/var/www/deserae/htdocs/myProject/overview.php",
+		"/var/www/deserae/htdocs/myProject/app/views/primary_footer.php",
+		"/var/www/deserae/htdocs/myProject/info.php",
+		"/var/www/deserae/htdocs/myProject/img/round-heads-type2.png",
+		"/var/www/deserae/htdocs/myProject/category.php",
+		"/var/www/deserae/htdocs/myProject/login.php",
+		"/var/www/deserae/htdocs/myProject/app/controllers/ajax_controller.class.php",
+		"/var/www/deserae/htdocs/myProject/app/controllers/app_controller.class.php",
+		"/var/www/deserae/htdocs/myProject/app/listing.class.php",
+		"/var/www/deserae/htdocs/myProject/css/styles.css",
+		"/var/www/deserae/htdocs/myProject/app/views/side_nav.php",
+		"/var/www/deserae/htdocs/myProject/test.php",
+		"/var/www/deserae/htdocs/myProject/process_post.php",
+		"/var/www/deserae/htdocs/myProject/create.php",
+		"/var/www/deserae/htdocs/myProject/app/models/post.class.php",
+		"/var/www/deserae/htdocs/myProject/edit.php",
+		"/var/www/deserae/htdocs/myProject/app/models/lang.class.php",
+		"/var/www/deserae/htdocs/myProject/app/models/category.class.php",
+		"/var/www/deserae/htdocs/myProject/examples/register/index.php",
+		"/var/www/deserae/htdocs/myProject/app/models/user.class.php",
+		"/var/www/deserae/htdocs/myProject/app/core/class_loader.class.php",
+		"/var/www/deserae/htdocs/myProject/app/core/initialize.php",
+		"/var/www/deserae/htdocs/project/overview.css",
+		"/var/www/deserae/htdocs/project/category.css",
+		"/var/www/deserae/htdocs/myProject/app/core/view.class.php",
+		"/var/www/deserae/htdocs/project/overview.php",
+		"/var/www/deserae/htdocs/myProject/package.json",
+		"/var/www/deserae/htdocs/myProject/css/category.css",
+		"/var/www/deserae/htdocs/project/category.php",
+		"/var/www/deserae/htdocs/project/index.php",
+		"/var/www/deserae/htdocs/project/styles.css",
+		"/var/www/deserae/htdocs/project/practiceStyles.css",
+		"/var/www/deserae/htdocs/project/practiceFloat.php",
+		"/var/www/deserae/htdocs/myProject/app/app_settings.php",
+		"/var/www/deserae/htdocs/myProject/phpinfo.php",
+		"/home/deserae/www/project/styles.css",
+		"/home/deserae/www/project/index.php",
+		"/home/deserae/www/project/overview.php",
+		"/var/www/deserae/htdocs/myProject/bower.json",
+		"/home/deserae/Dropbox/tgGames/jquery-simple-datetimepicker-1.12.0/bower.json",
+		"/home/deserae/www/project/overview.css",
+		"/var/www/deserae/htdocs/Ajax/bower_components/jquery/bower.json",
+		"/home/deserae/Dropbox/www/Ajax/bower_components/jquery/bower.json",
+		"/home/deserae/www/pma/config.inc.php",
+		"/home/deserae/www/phpInfo.php",
+		"/var/www/deserae/htdocs/pma/config.inc.php",
+		"/home/deserae/www/TeamTian/footer.php",
+		"/var/www/deserae/htdocs/TeamTian/header.php",
+		"/home/deserae/www/TeamTian/css/index-styles.css",
+		"/home/deserae/www/TeamTian/header.php",
+		"/home/deserae/www/TeamTian/index.php",
+		"/home/deserae/flip.css",
+		"/home/deserae/www/TeamTian/index.html",
+		"/home/deserae/brokenFlipStyle.css",
+		"/home/deserae/brokenFlip.html",
+		"/home/deserae/flip.html",
+		"/home/deserae/www/TeamTian/flip/flip.html",
+		"/home/deserae/www/php-db-forms/index.php",
+		"/home/deserae/www/php-db-forms/table.sql",
+		"/home/deserae/TeamTian/css/index-styles.css",
+		"/home/deserae/TeamTian/flip.html",
+		"/home/deserae/TeamTian/css/flip.css",
+		"/home/deserae/TeamTian/index.html",
+		"/home/deserae/TeamTian/css/overview-styles.css",
+		"/home/deserae/TeamTian/flashcard.html",
+		"/home/deserae/TeamTian/main.js",
+		"/home/deserae/TeamTian/styles.css",
+		"/Users/tom/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/tom/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Library/WebServer/Documents/JavaScript-Object-Instances/main.js",
+		"/Library/WebServer/Documents/JavaScript-Object-Instances/index.html",
+		"/Library/WebServer/Documents/javascript0530/main.js",
+		"/Library/WebServer/Documents/javascript0530/index.html",
+		"/Users/tom/Desktop/MYSQL_PASSWORD",
+		"/Library/WebServer/Documents/cart_backend/index.php",
+		"/Library/WebServer/Documents/cart_backend/tables.sql",
+		"/Library/WebServer/Documents/cart_backend/main.js",
+		"/Users/tom/Downloads/index.php",
+		"/Library/WebServer/Documents/cart_backend/index.html",
+		"/Library/WebServer/Documents/mysql_practice0529/index.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"/var/www/deserae/htdocs/myProject"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"catetory",
+			"insert",
+			";\n",
+			"html",
+			"    \n",
+			"                    \n",
+			"choose",
+			"auto",
+			"file",
+			"scroll"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/listing.class.php",
+					"settings":
+					{
+						"buffer_size": 439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								43
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/models/post.class.php",
+					"settings":
+					{
+						"buffer_size": 1194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								799,
+								799
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 462.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/models/user.class.php",
+					"settings":
+					{
+						"buffer_size": 1879,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								389,
+								389
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "process_post.php",
+					"settings":
+					{
+						"buffer_size": 796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								508,
+								508
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 8.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "category.php",
+					"settings":
+					{
+						"buffer_size": 2001,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1728,
+								1728
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1056.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "createPost.php",
+					"settings":
+					{
+						"buffer_size": 1852,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1614,
+								1614
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 80.0,
+						"translation.y": 792.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 6,
+					"file": "editPost.php",
+					"settings":
+					{
+						"buffer_size": 1875,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1451,
+								1451
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 836.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "css/styles.css",
+					"settings":
+					{
+						"buffer_size": 2904,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2285,
+								2285
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1914.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.486152319952,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 142.0
+	},
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true
+}

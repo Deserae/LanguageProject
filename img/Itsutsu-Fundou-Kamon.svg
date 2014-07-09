@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="500" height="500">
+  <rect width="500" height="500"/>
+  <!-- Basic display unit -->
+  <symbol id="unit">
+    <circle style="fill:#ffffff" cx="250" cy="100" r="86"/>
+      <!-- Top bite -->
+      <circle cx="250" cy="20" r="40"/>
+      <!-- Bottom bite -->
+      <circle cx="250" cy="180" r="40"/>
+  </symbol>
+  <!-- Now to use that symbol: -->
+  <use x="0" y="0" xlink:href="#unit"/>
+  <use x="0" y="0" xlink:href="#unit" transform="rotate(72 250 250)"/>
+  <use x="0" y="0" xlink:href="#unit" transform="rotate(144 250 250)"/>
+  <use x="0" y="0" xlink:href="#unit" transform="rotate(216 250 250)"/>
+  <use x="0" y="0" xlink:href="#unit" transform="rotate(288 250 250)"/>
+</svg>
+		

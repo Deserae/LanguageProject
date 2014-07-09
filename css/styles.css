@@ -1,0 +1,222 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 24px;
+    text-decoration: none;
+    font-family: "Oxygen";
+    font-weight: 400;
+/*    color: #393937;*/
+    color: black;
+}
+
+body, .page, header, footer {
+    background-color: #CC9C0C;
+}
+
+.page {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.san-andres {
+    width: 96%;
+    margin-left: 15px;
+}
+
+header, footer {
+    min-height: 60px;
+    padding: 10px;
+}
+
+
+/*header section*/
+header {
+    position: relative;
+}
+
+header .logo {
+    position: absolute;
+    font-size: 36px;
+    font-family: 'Special Elite', cursive;
+}
+
+header .logo img{
+    float:left;
+    width:70px;
+    height: 70px;
+    overflow: hidden;
+    margin: 5px;
+}
+
+header .welcome {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    padding-right: 10px;
+}
+
+.stuff {
+    display: none;
+}
+
+header nav {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    padding-right: 10px;
+}
+
+header nav a, .searchBar {
+    display: inline-block;
+    padding: 5px 25px;
+    background-color: rgb(29, 174, 157);
+    border-radius: 25px;
+    box-shadow: 1px 1px 1px #393937;
+
+}
+
+.searchBar input {
+    background-color: rgb(29, 174, 157);
+    width: 100px;
+    border: rgb(29, 174, 157);
+    padding: 0px;
+}
+
+ ::-webkit-input-placeholder {
+    color: #393937;
+}
+
+/*Left side navigation*/
+
+.sideNav {
+    float: left;
+    display:inline;
+    background-color: rgb(29, 174, 157);
+    width: 225px;
+    padding: 5px;
+    border-radius: 25px;
+    box-shadow: 2px 2px 2px #393937;
+}
+
+.sideNav h3 {
+    text-align: center;
+    font-weight: 700;
+/*    font-family: 'Special Elite', cursive;*/
+    padding: 1px;
+}
+
+.sideNav a {
+    display: block;
+    padding: 5px;
+/*    text-decoration: none;*/
+}
+
+/*Main content section*/
+
+.content {
+    overflow: hidden;
+    padding: 10px;
+}
+
+main {
+    background-color: rgb(29, 174, 157);
+    margin-left: 250px;
+    padding: 5px;
+    border-radius: 25px;
+    box-shadow: 2px 2px 2px #393937;
+}
+p {
+    padding: 5px;
+}
+
+.categories, .allPosts, .singlePost {
+    padding: 10px;
+}
+
+textarea {
+    min-height: 500px;
+}
+
+/*the footer */
+
+footer, footer a {
+    text-align: right;
+}
+
+footer a {
+    display:block;
+}
+
+/*The overview.php section*/
+h2 {
+    text-align: center;
+    padding: 5px;
+}
+
+h2 a {
+    border: 1px solid #393937;
+    border-radius: 25px;
+    padding: 5px;
+    background-color: #2DD4C1;
+    box-shadow: 1px 1px 1px #393937;
+    white-space:nowrap;
+}
+
+.listing /*.subSection, .post*/ {
+    background-color: #2DD4C1;
+    padding: 10px;
+    overflow: hidden;
+    margin-bottom: 10px;
+    border-radius: 25px;
+    box-shadow: 1px 1px 1px #393937;
+}
+
+.img, .post .voteNum {
+    background-color: #CC9C0C;
+    width: 100px;
+    height: 100px;
+    float: left;
+    border-radius: 25px;
+}
+
+.img img {
+    width: 100px;
+    height: 100px;
+}
+
+.subInfo {
+    padding: 10px;
+    margin-left: 110px;
+}
+
+.singlePost {
+    background-color: #2DD4C1;
+    border-radius: 25px;
+}
+
+.singlePost p span {
+    font-size: 18px;
+}
+
+/*the login page*/
+
+.notice {
+    list-style: none;
+    color:darkred;
+}
+
+input {
+    border-radius: 25px;
+    background-color: lightgrey;
+    padding: 5px;
+}
+
+button {
+    padding: 5px;
+    border-radius: 25px;
+    margin: 10px;
+}
+
+.reptile-form {
+    margin: 50px;
+}
